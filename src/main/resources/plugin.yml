@@ -1,0 +1,4 @@
+name: LootableMobCorpses
+version: '1.0'
+main: tr.alperendemir.lootableMobCorpses.LootableMobCorpses
+api-version: '1.21'
