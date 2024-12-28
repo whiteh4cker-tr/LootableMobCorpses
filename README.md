@@ -1,6 +1,9 @@
 # LootableMobCorpses
  Loot mobs with custom drops
 
+![GitHub License](https://img.shields.io/github/license/whiteh4cker-tr/LootableMobCorpses?style=flat)
+[![CodeFactor](https://www.codefactor.io/repository/github/whiteh4cker-tr/lootablemobcorpses/badge/main)](https://www.codefactor.io/repository/github/whiteh4cker-tr/lootablemobcorpses/overview/main)
+
 ## Features
 
 -   Customizable drops with drop chance
