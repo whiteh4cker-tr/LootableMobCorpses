@@ -4,6 +4,11 @@
 ![GitHub License](https://img.shields.io/github/license/whiteh4cker-tr/LootableMobCorpses?style=flat)
 [![CodeFactor](https://www.codefactor.io/repository/github/whiteh4cker-tr/lootablemobcorpses/badge/main)](https://www.codefactor.io/repository/github/whiteh4cker-tr/lootablemobcorpses/overview/main)
 
+<big>Supported Platforms</big><br>
+[![spigot software](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.2.0/assets/compact-minimal/supported/spigot_vector.svg)](https://www.spigotmc.org/)
+[![paper software](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/supported/paper_vector.svg)](https://papermc.io/)
+[![purpur software](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/supported/purpur_vector.svg)](https://purpurmc.org/)
+
 ## Features
 
 -   Customizable drops with drop chance
